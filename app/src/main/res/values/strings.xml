@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCodingChallenge</string>
+    <string name="login_button_text">Get Articles</string>
+</resources>
